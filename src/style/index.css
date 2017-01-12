@@ -5,6 +5,7 @@
 @import './Nav.css';
 @import './Landing.css';
 @import './Enrollment.css';
+@import './Auth.css';
 @import './Mobile.css';
 
 body {

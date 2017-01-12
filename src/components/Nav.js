@@ -7,6 +7,7 @@ const Nav = () => {
     <div className="Navigation">
       <Link className="turing-logo-link" to="/"><img className="turing-logo" src={turinglogo}/></Link>
       <ul>
+        <li><Link to="/auth">Log in or Sign up</Link></li>
         <li><Link to="/"> Home </Link></li>
         <li><Link to="/enrollment">Enrollments</Link></li>
       </ul>
